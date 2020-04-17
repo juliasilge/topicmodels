@@ -1,7 +1,7 @@
 Package: topicmodels
 Type: Package
 Title: Topic Models
-Version: 0.2-9
+Version: 0.2-9.9
 Authors@R: c(person("Bettina", "Grün", role = c("aut", "cre"),
                     email = "Bettina.Gruen@jku.at",
 		    comment = c(ORCID = "0000-0001-7265-4773")),
